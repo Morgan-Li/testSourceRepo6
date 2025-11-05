@@ -15,8 +15,6 @@
     <packaging>pom</packaging>
     <!-- end::packagingType[] -->
     <!-- end::packaging[] -->
-
-    <!-- Test! -->
     
     <!-- tag::modules[] -->
     <modules>
